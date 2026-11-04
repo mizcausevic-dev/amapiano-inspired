@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "amapiano-inspired",
+  "display_name": "Amapiano-Inspired Studies",
+  "brief_name": "Amapiano-inspired",
+  "creative_intention": "Patient keyboard-led interplay and spacious bass/percussion dialogue.",
+  "rhythmic_direction": "Patient key phrases converse with spacious bass entries and carefully reserved percussion.",
+  "palette": "Warm keyboard cells, monophonic bass, light melodic lead and selective high texture.",
+  "guardrail": "Inspired is a bounded production direction, not a cultural or historical claim.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack amapiano-inspired",
+  "actual_tempo_bpm": 112,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "ap01",
+      "title": "Room Tone",
+      "tonic": "C#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ap02",
+      "title": "Slow Glass",
+      "tonic": "E",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ap03",
+      "title": "Seat Five",
+      "tonic": "G",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "ap04",
+      "title": "Late Light",
+      "tonic": "D",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-04T03:09:12.257087+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/ap01-room-tone/ap01-room-tone-combined.mid",
+      "bytes": 8179,
+      "sha256": "21a78aa819f1f2e21945b5e63af3e6297715d6f4b1bf861d3a426dd45797ebb3",
+      "errors": []
+    },
+    {
+      "path": "midi/ap01-room-tone/chord_pulse.mid",
+      "bytes": 2032,
+      "sha256": "6d3d1e7c8adfac40beaabdb0755ed29f9c7a0e01c117e202bc5f03799cb68e50",
+      "errors": []
+    },
+    {
+      "path": "midi/ap01-room-tone/counter_texture.mid",
+      "bytes": 206,
+      "sha256": "77027d92ebcb0d171cc080b469441ab33ad676b5f44e44deb2fd65a1caa619ae",
+      "errors": []
+    },
+    {
+      "path": "midi/ap01-room-tone/drums.mid",
+      "bytes": 3233,
+      "sha256": "3dea5a6a1a8e13c417d16f9d67d849f96e27eb3f5936621bc6204e1c40a544dc",
+      "errors": []
+    },
+    {
+      "path": "midi/ap01-room-tone/principal_motif.mid",
+      "bytes": 1632,
+      "sha256": "cebcc9dba7528d705e343d5ff8aa8c57c5257aa39e7b5c015c1b5ff750284ad7",
+      "errors": []
+    },
+    {
+      "path": "midi/ap01-room-tone/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "fd86d6842164601f056fb479990bb75d05bee837cf704ef6ed7eeeb8a9034b97",
+      "errors": []
+    },
+    {
+      "path": "midi/ap01-room-tone/vocal_like_synth.mid",
+      "bytes": 224,
+      "sha256": "bc5813f5229920d5498c0c0c560d597deabc6adf14c4b5cb02d89efa040bcb30",
+      "errors": []
+    },
+    {
+      "path": "midi/ap02-slow-glass/ap02-slow-glass-combined.mid",
+      "bytes": 8180,
+      "sha256": "3c2d8f994b775e34cfea34f1e62c8e424657f4b8ad9dd9348eee825433778694",
+      "errors": []
+    },
+    {
+      "path": "midi/ap02-slow-glass/chord_pulse.mid",
+      "bytes": 2032,
+      "sha256": "efe4cd6036b5a3c6beda751af6e1fccee0a2dd0ca595db3994b1e0aab2dfa160",
+      "errors": []
+    },
+    {
+      "path": "midi/ap02-slow-glass/counter_texture.mid",
+      "bytes": 206,
+      "sha256": "dec778b8be5a4fd0104afb80a710f4d920be9b66781b51416e18e20d9f316a9c",
+      "errors": []
+    },
+    {
+      "path": "midi/ap02-slow-glass/drums.mid",
+      "bytes": 3233,
+      "sha256": "3dea5a6a1a8e13c417d16f9d67d849f96e27eb3f5936621bc6204e1c40a544dc",
+      "errors": []
+    },
+    {
+      "path": "midi/ap02-slow-glass/principal_motif.mid",
+      "bytes": 1633,
+      "sha256": "af0dadd9039eaf9b476d5799e1e564ad02939989e9b15c71693918c5f1e4728b",
+      "errors": []
+    },
+    {
+      "path": "midi/ap02-slow-glass/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "0138696669a1905492fcdc106e2875094f566991bda4b7fe7a99a481b9446bee",
+      "errors": []
+    },
+    {
+      "path": "midi/ap02-slow-glass/vocal_like_synth.mid",
+      "bytes": 224,
+      "sha256": "c916d8e3e5f206c1bde8dbda3f10a7f09bbef1612614d4588c4f8c93c836009a",
+      "errors": []
+    },
+    {
+      "path": "midi/ap03-seat-five/ap03-seat-five-combined.mid",
+      "bytes": 8179,
+      "sha256": "d95ae61194c3ad4c1dcf8760e8bd6093a9be39c7c2ceb9a09cccf57443b345f9",
+      "errors": []
+    },
+    {
+      "path": "midi/ap03-seat-five/chord_pulse.mid",
+      "bytes": 2032,
+      "sha256": "a2abf00c6ca893d68219a1f7f9a3363317895b6c97e9bff83de6015bc3490cca",
+      "errors": []
+    },
+    {
+      "path": "midi/ap03-seat-five/counter_texture.mid",
+      "bytes": 206,
+      "sha256": "bb2ba3b259f89e0f3a7a63c0038ca7a41083fb00037bb47e320bb3d963de9d47",
+      "errors": []
+    },
+    {
+      "path": "midi/ap03-seat-five/drums.mid",
+      "bytes": 3233,
+      "sha256": "3dea5a6a1a8e13c417d16f9d67d849f96e27eb3f5936621bc6204e1c40a544dc",
+      "errors": []
+    },
+    {
+      "path": "midi/ap03-seat-five/principal_motif.mid",
+      "bytes": 1632,
+      "sha256": "89c01db1558396eb2eb5e3843b52bc05369e0f2fec7c630dd5cace1f749d26f2",
+      "errors": []
+    },
+    {
+      "path": "midi/ap03-seat-five/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "22cd93983084a4910495173e505f35de13a6bc436b5be4180be0912be2984b76",
+      "errors": []
+    },
+    {
+      "path": "midi/ap03-seat-five/vocal_like_synth.mid",
+      "bytes": 224,
+      "sha256": "c9a3d027ebb771b498626717db0c0977a5266a30c3bc836c7b06f973f93be9a4",
+      "errors": []
+    },
+    {
+      "path": "midi/ap04-late-light/ap04-late-light-combined.mid",
+      "bytes": 8179,
+      "sha256": "0cbd2622dc93bd370fd65b5deb86939656fb9c7d3357ce28e3f5923fa1b284e4",
+      "errors": []
+    },
+    {
+      "path": "midi/ap04-late-light/chord_pulse.mid",
+      "bytes": 2032,
+      "sha256": "36f08d400d72304325f14aba159187bf2cdb1a5e8982e3b908a460e5a1fe1fa5",
+      "errors": []
+    },
+    {
+      "path": "midi/ap04-late-light/counter_texture.mid",
+      "bytes": 206,
+      "sha256": "a1ccf930fee64ecbbc2fca6ffc5ce86e3b9a6c1c9a5a3980e8b73d60f05d2e2e",
+      "errors": []
+    },
+    {
+      "path": "midi/ap04-late-light/drums.mid",
+      "bytes": 3233,
+      "sha256": "3dea5a6a1a8e13c417d16f9d67d849f96e27eb3f5936621bc6204e1c40a544dc",
+      "errors": []
+    },
+    {
+      "path": "midi/ap04-late-light/principal_motif.mid",
+      "bytes": 1632,
+      "sha256": "d626ba1f8efc857c2831fc12527777b1f380a7fcadaac281c3d91ccfb67a4248",
+      "errors": []
+    },
+    {
+      "path": "midi/ap04-late-light/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "4f22aca6dd9302e9731be4b26bba75e6f665d92560f80e92e669e320c3c5dfc1",
+      "errors": []
+    },
+    {
+      "path": "midi/ap04-late-light/vocal_like_synth.mid",
+      "bytes": 224,
+      "sha256": "900761cd92cc20716e8fea030302dd809e7a8f5c3b3718226ad832d4c0724a3e",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
