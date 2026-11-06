@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:38.122142+00:00",
+  "run_time_utc": "2026-11-06T17:53:32.224674+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -8,8 +8,8 @@
   "midi_files": [
     {
       "path": "midi/ap01-room-tone/ap01-room-tone-combined.mid",
-      "bytes": 8179,
-      "sha256": "21a78aa819f1f2e21945b5e63af3e6297715d6f4b1bf861d3a426dd45797ebb3",
+      "bytes": 7561,
+      "sha256": "e6e801401ac1764a9068f0a042f84304c234f9793947ca96740c6897009e0bbd",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/ap01-room-tone/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "cebcc9dba7528d705e343d5ff8aa8c57c5257aa39e7b5c015c1b5ff750284ad7",
+      "bytes": 1014,
+      "sha256": "e9c89839d0af5dafc32ac480c58bb6aee4d6feff01a21e4377b4a71311ca3e3d",
       "errors": []
     },
     {
@@ -50,8 +50,8 @@
     },
     {
       "path": "midi/ap02-slow-glass/ap02-slow-glass-combined.mid",
-      "bytes": 8180,
-      "sha256": "3c2d8f994b775e34cfea34f1e62c8e424657f4b8ad9dd9348eee825433778694",
+      "bytes": 7561,
+      "sha256": "6b8d09e2080bd4f40585b512efc38772648ab27fa78522bbfb85f48db3309294",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/ap02-slow-glass/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "af0dadd9039eaf9b476d5799e1e564ad02939989e9b15c71693918c5f1e4728b",
+      "bytes": 1014,
+      "sha256": "62901edddc03d78b93009718700c5a21498ef6b5bd0f462673e7f75574fe8667",
       "errors": []
     },
     {
@@ -92,8 +92,8 @@
     },
     {
       "path": "midi/ap03-seat-five/ap03-seat-five-combined.mid",
-      "bytes": 8179,
-      "sha256": "d95ae61194c3ad4c1dcf8760e8bd6093a9be39c7c2ceb9a09cccf57443b345f9",
+      "bytes": 7562,
+      "sha256": "ca6a1f419ca37a4ff3c69f3dad549052327752567442bde45cd63a0272af0980",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/ap03-seat-five/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "89c01db1558396eb2eb5e3843b52bc05369e0f2fec7c630dd5cace1f749d26f2",
+      "bytes": 1015,
+      "sha256": "6e49d053b3fe5d224ff420bc0962bbef4bcb37126fc533bc90d745d93d37e9d0",
       "errors": []
     },
     {
@@ -134,8 +134,8 @@
     },
     {
       "path": "midi/ap04-late-light/ap04-late-light-combined.mid",
-      "bytes": 8179,
-      "sha256": "0cbd2622dc93bd370fd65b5deb86939656fb9c7d3357ce28e3f5923fa1b284e4",
+      "bytes": 7561,
+      "sha256": "166f3c9615c67dfdc90a5ef7cffcd4b70b6e5d59acd609586e238f60ea216706",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/ap04-late-light/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "d626ba1f8efc857c2831fc12527777b1f380a7fcadaac281c3d91ccfb67a4248",
+      "bytes": 1014,
+      "sha256": "d79da6275065bb1a423739de90a1d12b664b419a6a113ea490131a1bb9cdcd50",
       "errors": []
     },
     {
