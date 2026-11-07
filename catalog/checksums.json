@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/amapiano-inspired-midi.zip",
-      "bytes": 32815,
-      "sha256": "a5c21dd1895069b6d4b331fcd92fe75aaa42d78aac089ce7e2d6a601614f6547"
+      "bytes": 35334,
+      "sha256": "637a736effb3499869e728216cb29662746a37362b9d2f56d312066c250f86b3"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10276,
-      "sha256": "409b8a303a5dab8be1fe1942e70f804e5f652dfc472a531cbd4873fd1aacc284"
+      "bytes": 10466,
+      "sha256": "4dae944efae904fa452e887fe61091a140461e0269dfaacd5ef50c168fc9713b"
     },
     {
       "path": "midi/ap01-room-tone/ap01-room-tone-combined.mid",
@@ -257,6 +257,11 @@
       "sha256": "900761cd92cc20716e8fea030302dd809e7a8f5c3b3718226ad832d4c0724a3e"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 788,
       "sha256": "237e380baeca81253b270853cc642768d93ee488841010c8c8b7955bfa5dddd2"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3356,
-      "sha256": "cbf6de9c95c5fa38d30fa6255fd2fc29bf48af0a0e82c677e63550e94ebc3b3e"
+      "bytes": 3471,
+      "sha256": "32799ef8178bfa5516271411229fed9fdb2ccd3bed461ea120d4de33f2828071"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
